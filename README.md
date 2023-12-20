@@ -1,2 +1,2 @@
 # everything_python
-Repository for my Python projects. HOw did you even find this page?
+Repository for my Python projects. How did you even find this page?
