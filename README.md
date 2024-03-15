@@ -1,4 +1,3 @@
-# My Python Projects
-Repository for my Python projects. How did you even find this page?
+# Python Projects
 
-To be honest, I don't even know how Github works yet...
+Repo for random Python 3.0 projects I decide to make.
